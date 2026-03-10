@@ -1,6 +1,6 @@
 module github.com/hashicorp/levant
 
-go 1.24.4
+go 1.24
 
 // Use the same version of go-metrics as Nomad.
 replace github.com/armon/go-metrics => github.com/armon/go-metrics v0.0.0-20230509193637-d9ca9af9f1f9
